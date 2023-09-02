@@ -39,7 +39,7 @@ In this section, we'll configure and run a MySQL container using Docker:
 - **Step 2:** Create a Docker network for communication between the MySQL container and Spring Boot application.
 - **Step 3:** Launch the MySQL container with the defined configurations.
 
-Detailed instructions for setting up MySQL can be found in the [Setting Up MySQL](./docs/mysql-setup.md) documentation.
+<!-- Detailed instructions for setting up MySQL can be found in the [Setting Up MySQL](./docs/mysql-setup.md) documentation. -->
 
 ## Creating a Spring Boot Application
 
@@ -49,7 +49,7 @@ Here, we'll create a basic Spring Boot application:
 - **Step 2:** Configure the Spring Boot application properties.
 - **Step 3:** Create a simple REST API endpoint.
 
-You can follow the instructions in [Creating a Spring Boot Application](./docs/spring-boot-setup.md) for detailed guidance.
+<!-- You can follow the instructions in [Creating a Spring Boot Application](./docs/spring-boot-setup.md) for detailed guidance. -->
 
 ## Dockerizing the Application
 
@@ -59,7 +59,7 @@ In this section, we'll containerize our Spring Boot application:
 - **Step 2:** Build a Docker image of your application.
 - **Step 3:** Run your Spring Boot application in a Docker container.
 
-For a more in-depth explanation, check out [Dockerizing the Application](./docs/dockerize-app.md).
+<!-- For a more in-depth explanation, check out [Dockerizing the Application](./docs/dockerize-app.md). -->
 
 ## Running and Testing
 
@@ -69,7 +69,7 @@ Now that your MySQL and Spring Boot application are in Docker containers, it's t
 - **Step 2:** Verify that the Spring Boot application can connect to the MySQL database.
 - **Step 3:** Test your Spring Boot application.
 
-Learn more about running and testing your setup in [Running and Testing](./docs/running-and-testing.md).
+<!-- Learn more about running and testing your setup in [Running and Testing](./docs/running-and-testing.md). -->
 
 ## Conclusion
 
