@@ -28,7 +28,7 @@ Clone this repository to your local machine to access the necessary files and co
 
 ```bash
 git clone https://github.com/Innocentsax/Dockerized-MySQL-and-SpringBoot-Setup.git
-cd docker-mysql-spring-boot
+cd Dockerized-MySQL-and-SpringBoot-Setup
 ```
 
 ## Setting Up MySQL
