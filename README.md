@@ -5,6 +5,8 @@ application within Docker containers. Docker simplifies the management and deplo
 enabling you to quickly get your application up and running. Whether you're a beginner or experienced developer, 
 this step-by-step tutorial will ensure you have a fully functional environment for database development and Spring Boot applications.
 
+<img src="https://github.com/Innocentsax/Dockerized-MySQL-and-SpringBoot-Setup/blob/main/view1.png">
+
 ## Table of Contents
 
 1. [Prerequisites](#prerequisites)
